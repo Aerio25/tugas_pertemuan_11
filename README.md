@@ -61,9 +61,22 @@ Jika nama tidak ditemukan, tampilkan pesan bahwa mahasiswa tersebut tidak ada.
 Jika pengguna memilih untuk keluar, program akan berhenti.
 
 
-
 8. Ulangi Menu:
 
 Setelah satu aksi selesai (tambah, tampil, hapus, atau ubah), tampilkan lagi menu utama untuk memilih aksi lainnya.
 
 Program akan terus berjalan hingga pengguna memilih untuk keluar.
+
+#
+
+B. CODE PROGRAM
+
+![image](https://github.com/user-attachments/assets/390fd4cc-7bfe-4e09-8528-595eb8875a7a)
+
+![image](https://github.com/user-attachments/assets/c6a1bf1b-247f-418b-ba65-77fb06967cd7)
+
+#
+
+C. HASIL RUNNING PROGRAM
+
+![Screenshot tugas](https://github.com/user-attachments/assets/606f5518-313c-4985-b705-e3b3ba9258ab)
